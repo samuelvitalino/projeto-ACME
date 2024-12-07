@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projeto_ACME" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projeto_ACME" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projeto_ACME" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="adicionarIngrediente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="adicionarProdutoCardapio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ativarDesativarIngrediente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="atualizarIngrediente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="atualizarProdutoCardapio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cadastrarCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cardapio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cardapio.h" />
+		<Unit filename="clientes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="clientes.h" />
+		<Unit filename="colores.h" />
+		<Unit filename="cores.h" />
+		<Unit filename="deletarProdutoCardapio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="getNomeIngredientePorCodigo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="getProdutoPorCodigo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ingredientes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ingredientes.h" />
+		<Unit filename="listarCardapio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listarCardapioPedido.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listarClientes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listarClientesPedido.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listarIngrediente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listarIngredienteCardapio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listarVendas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="novoPedido.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="obterProximoCodigo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="obterProximoCodigoCardapio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="obterProximoCodigoCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="obterProximoCodigoVenda.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pedidoPertenceAoCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pesquisarCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pesquisarIngrediente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pesquisarPedido.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pesquisarPedidoPorId.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pesquisarProdutoCardapio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="qtdIngredientes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vendas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vendas.h" />
+		<Unit filename="verificacao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verificacaoCodigo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,248 @@
+# depslib dependency file v1.0
+1733590419 source:c:\users\samuel\documents\projeto_acme\adicionaringrediente.c
+	<stdio.h>
+	<stdlib.h>
+	"ingredientes.h"
+	"cores.h"
+
+1733598833 c:\users\samuel\documents\projeto_acme\ingredientes.h
+
+1733598817 c:\users\samuel\documents\projeto_acme\cores.h
+
+1733590441 source:c:\users\samuel\documents\projeto_acme\adicionarprodutocardapio.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"cardapio.h"
+	"ingredientes.h"
+	"windows.h"
+	"cores.h"
+
+1733598842 c:\users\samuel\documents\projeto_acme\vendas.h
+	"cardapio.h"
+
+1733598742 c:\users\samuel\documents\projeto_acme\cardapio.h
+
+1733590458 source:c:\users\samuel\documents\projeto_acme\ativardesativaringrediente.c
+	<stdio.h>
+	<stdlib.h>
+	"ingredientes.h"
+	"cores.h"
+
+1733590494 source:c:\users\samuel\documents\projeto_acme\atualizaringrediente.c
+	<stdio.h>
+	<stdlib.h>
+	"ingredientes.h"
+	"cores.h"
+
+1733590507 source:c:\users\samuel\documents\projeto_acme\atualizarprodutocardapio.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"cardapio.h"
+	"ingredientes.h"
+	"cores.h"
+
+1733593381 source:c:\users\samuel\documents\projeto_acme\cadastrarcliente.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+
+1733598752 c:\users\samuel\documents\projeto_acme\clientes.h
+	<stdbool.h>
+
+1733593395 source:c:\users\samuel\documents\projeto_acme\cardapio.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"cardapio.h"
+	"ingredientes.h"
+	"cores.h"
+
+1733593414 source:c:\users\samuel\documents\projeto_acme\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"cores.h"
+
+1733593432 source:c:\users\samuel\documents\projeto_acme\deletarprodutocardapio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vendas.h"
+	"cardapio.h"
+	"ingredientes.h"
+	"cores.h"
+
+1733593990 source:c:\users\samuel\documents\projeto_acme\getnomeingredienteporcodigo.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"cardapio.h"
+	"ingredientes.h"
+
+1733597783 source:c:\users\samuel\documents\projeto_acme\getprodutoporcodigo.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"cardapio.h"
+
+1733597802 source:c:\users\samuel\documents\projeto_acme\ingredientes.c
+	<stdio.h>
+	<stdlib.h>
+	"ingredientes.h"
+	"cores.h"
+
+1733597819 source:c:\users\samuel\documents\projeto_acme\listarcardapio.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"cardapio.h"
+	"ingredientes.h"
+	"cores.h"
+
+1733598382 source:c:\users\samuel\documents\projeto_acme\listarcardapiopedido.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"cardapio.h"
+	"ingredientes.h"
+	"cores.h"
+
+1733598403 source:c:\users\samuel\documents\projeto_acme\listarclientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"verificacao.h"
+	"cores.h"
+
+1733598873 c:\users\samuel\documents\projeto_acme\verificacao.h
+
+1733598436 source:c:\users\samuel\documents\projeto_acme\listarclientespedido.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+
+1733598456 source:c:\users\samuel\documents\projeto_acme\listaringrediente.c
+	<stdio.h>
+	<stdlib.h>
+	"ingredientes.h"
+	"cores.h"
+
+1733598470 source:c:\users\samuel\documents\projeto_acme\listaringredientecardapio.c
+	<stdio.h>
+	<stdlib.h>
+	"ingredientes.h"
+
+1733598508 source:c:\users\samuel\documents\projeto_acme\listarvendas.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"cardapio.h"
+	"cores.h"
+
+1733589461 source:c:\users\samuel\documents\projeto_acme\main.c
+	<locale.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	"cores.h"
+
+1733598519 source:c:\users\samuel\documents\projeto_acme\novopedido.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"cardapio.h"
+	"clientes.h"
+	"cores.h"
+
+1733598531 source:c:\users\samuel\documents\projeto_acme\obterproximocodigo.c
+	<stdio.h>
+	<stdlib.h>
+	"ingredientes.h"
+
+1733598552 source:c:\users\samuel\documents\projeto_acme\obterproximocodigocardapio.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"cardapio.h"
+	"ingredientes.h"
+
+1733598566 source:c:\users\samuel\documents\projeto_acme\obterproximocodigocliente.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+
+1733598583 source:c:\users\samuel\documents\projeto_acme\obterproximocodigovenda.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"cardapio.h"
+
+1733598599 source:c:\users\samuel\documents\projeto_acme\pedidopertenceaocliente.c
+	<stdbool.h>
+	"clientes.h"
+
+1733598619 source:c:\users\samuel\documents\projeto_acme\pesquisarcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"clientes.h"
+	"cores.h"
+
+1733598631 source:c:\users\samuel\documents\projeto_acme\pesquisaringrediente.c
+	<stdio.h>
+	<stdlib.h>
+	"ingredientes.h"
+	"cores.h"
+
+1733598643 source:c:\users\samuel\documents\projeto_acme\pesquisarpedido.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"cardapio.h"
+	"cores.h"
+
+1733598655 source:c:\users\samuel\documents\projeto_acme\pesquisarpedidoporid.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"cores.h"
+
+1733598671 source:c:\users\samuel\documents\projeto_acme\pesquisarprodutocardapio.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"cardapio.h"
+	"ingredientes.h"
+	"cores.h"
+
+1733598691 source:c:\users\samuel\documents\projeto_acme\qtdingredientes.c
+	<stdio.h>
+	<stdlib.h>
+	"ingredientes.h"
+
+1733598703 source:c:\users\samuel\documents\projeto_acme\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"cardapio.h"
+	"cores.h"
+
+1733598715 source:c:\users\samuel\documents\projeto_acme\verificacao.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"cores.h"
+
+1733598724 source:c:\users\samuel\documents\projeto_acme\verificacaocodigo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	"cores.h"
+
